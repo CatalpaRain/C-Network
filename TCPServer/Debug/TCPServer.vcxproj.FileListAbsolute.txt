@@ -1,0 +1,2 @@
+D:\Project\ModernNetwork\first\TCPServer\Debug\TCPServer.exe
+D:\Project\ModernNetwork\first\TCPServer\Debug\TCPServer.pdb
