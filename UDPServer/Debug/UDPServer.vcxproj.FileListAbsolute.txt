@@ -1,0 +1,2 @@
+D:\Project\ModernNetwork\first\UDPServer\Debug\UDPServer.exe
+D:\Project\ModernNetwork\first\UDPServer\Debug\UDPServer.pdb
